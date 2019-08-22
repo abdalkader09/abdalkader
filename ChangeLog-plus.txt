@@ -33,5 +33,5 @@
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
 
-","url":"https://abdalkadrrazok.blogspot.com"
+","url":"www.abdalkadrrazok.blogspot.com"
 }
