@@ -1,4 +1,4 @@
-{"version_code":451184,"content":"
+{"version_code":4511840,"content":"
 <p>تحديث 1.50</p>
 
    • تحديث القاعدة الى 2.19.244
@@ -102,5 +102,5 @@
 
       • امكانية ايقاف/تشغيل الانترنت عن الواتساب
 
-","url":"abdalkadrrazok.blogspot.com/2019/09/arwhatsapp-v150.html"
+","url":"https://abdalkadrrazok.blogspot.com/2019/09/arwhatsapp-v15026.html"
 }
