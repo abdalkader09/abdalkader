@@ -1,4 +1,4 @@
-{"version_code":4511840,"content":"
+{"version_code":451184,"content":"
 <p>تحديث 1.50</p>
 
    • تحديث القاعدة الى 2.19.244
